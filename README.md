@@ -1,0 +1,2 @@
+# vigneshearreddyb
+Aspiring Data Analyst skilled in Python, SQL, Excel &amp; Power BI | Building real-world data projects.
