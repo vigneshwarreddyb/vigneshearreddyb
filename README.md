@@ -11,24 +11,23 @@ I am passionate about turning raw data into meaningful insights.
 Currently focusing on Data Analytics using Python, SQL, Excel and Power BI.
 
 ---
+🛠 Technical Skills
 
- 🛠 Technical Skills
- 
- 📌 Programming & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+- 📌 Programming & Libraries
+  - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
- 📌 Tools
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+- 📌 Tools
+  - ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+  - ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+  - ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
- 📌 Concepts
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F61)
+- 📌 Concepts
+  - ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50)
+  - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F61)
 
 ---
 
