@@ -38,9 +38,6 @@ Currently focusing on Data Analytics using Python, SQL, Excel and Power BI.
 - Power BI Dashboard
 
 ---
--Bio
-Aspiring Data Analyst skilled in Python, SQL, Excel & amp; Power BI | Building real-world data projects.
-
- 📫 Connect With Me
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/vigneshwar-reddy-beeram-42b77b267/)
-📧 [Email Me](btech.cse.ds.705@gmail.com)
+ - 📫 Connect With Me
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwar-reddy-beeram-42b77b267/)
+  - [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:btech.cse.ds.705@gmail.com)
