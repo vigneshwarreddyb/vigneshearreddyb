@@ -12,8 +12,8 @@ Currently focusing on Data Analytics using Python, SQL, Excel and Power BI.
 
 ---
 
- 🛠 Skills
-= Technical Skills
+ 🛠 Technical Skills
+ 
  📌 Programming & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
