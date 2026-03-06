@@ -31,7 +31,7 @@ Currently focusing on Data Analytics using Python, SQL, Excel and Power BI.
 
 ---
 
- 📊  Goal Projects
+ 📊  D-A Projects
 - Sales Data Analysis
 - IPL Data Analysis
 - Netflix Data Analysis
